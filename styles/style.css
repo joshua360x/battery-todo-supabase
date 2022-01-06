@@ -153,7 +153,7 @@ footer {
 }
 
 .complete {
-    text-decoration: line-through;
+    text-decoration: line-through red;
     background-color: lightgreen;
 }
 
